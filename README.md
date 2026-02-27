@@ -37,27 +37,7 @@ how network topology affects connectivity, performance, and fault tolerance.
 - One link in the ring topology was disconnected
 - Network continued to function using alternate path
 - Demonstrated fault tolerance in ring topology
-
----
-
-## IP Addressing Scheme
-
-### Star & Bus Topology
-- Network: `192.168.10.0/24`
-- PC IP Range: `192.168.10.1` – `192.168.10.4`
-
-### Ring Topology
-- Network: `192.168.20.0/24`
-- PC IP Range: `192.168.20.1` – `192.168.20.3`
-
----
-
-## Files Included
-- `exp1_topologies.pkt` – Cisco Packet Tracer network file  
-- `output_exp1.txt` – Ping results and observations  
-- `report_exp1.pdf` – Experiment report with screenshots  
-- `README.md` – Project overview and instructions  
-
+  
 ---
 
 ## How to Run the Experiment
